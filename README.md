@@ -4,6 +4,10 @@
 
 ![example workflow](https://github.com/Qwokka/Cetus/actions/workflows/CI.yml/badge.svg)
 
+## TODO
+FULL CHEAT ENGINE FUNCTION :D  
+WASM PATCH BUGS, HEAP OVERLAPPING ON CHROME  
+
 ## Overview
 
 Check out the slides for [Hacking WebAssembly Games with Binary Instrumentation](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Jack-Baker-Hacking-Web-Assembly-Games.pdf) at Defcon 27.
